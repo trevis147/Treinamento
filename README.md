@@ -3,7 +3,7 @@ Baixe o sistema de controle de versões Git
 https://git-scm.com/download/win
 
 após instalado abra o cmd e execute os seguintes comandos para baixar o projeto.
-# git clone https://github.com/trevis147/Treinamento.git
+# git clone https://github.com/trevis147/TreinamentoJavaScript.git
 ele ira fazer o download do projeto em sua maquina
 
 Assim que tiver alguma atualização disponivel no git é só usar o comando.
